@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[Kojinga]]></title>
+  <subtitle><![CDATA[Code for coffee]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://kojinga.com/"/>
+  <updated>2014-09-09T05:02:53.780Z</updated>
+  <id>http://kojinga.com/</id>
+  
+  <author>
+    <name><![CDATA[svdb]]></name>
+    <email><![CDATA[mail@svdb.co]]></email>
+  </author>
+  
+  <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[About]]></title>
+    <link href="http://kojinga.com/posts/2014/09/08/about/"/>
+    <id>http://kojinga.com/posts/2014/09/08/about/</id>
+    <published>2014-09-08T08:59:00.000Z</published>
+    <updated>2014-09-09T04:54:54.000Z</updated>
+    <content type="html"><![CDATA[<p><img class="circle left" height="128" width="128" src="/images/sjaak.png"></p>
+<p>Hi, my name is Sjaak and I’m a front end developer from the Netherlands. I work with HTML5, CSS3 and JavaScript. This is the website of my company, Kojinga.</p>
+<p>I design spiffy lookin’ websites and help business owners accept and integrate Bitcoin. I work together with Erik from <a href="http://vriesstijl.nl" target="_blank" rel="external">Vriesstijl</a>.</p>
+]]></content>
+    
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Services]]></title>
+    <link href="http://kojinga.com/posts/2014/09/08/services/"/>
+    <id>http://kojinga.com/posts/2014/09/08/services/</id>
+    <published>2014-09-08T08:58:00.000Z</published>
+    <updated>2014-09-08T23:45:58.000Z</updated>
+    <content type="html"><![CDATA[<p><img class="circle left" width="128" height="128" src="/images/wordpress.png"></p>
+<h4 id="Wordpress">Wordpress</h4>
+<p>We create beautiful and unique websites, using the latest web technology. We will keep your website up to date and protect it against malware. We make sure that people will be able to find your business online.</p>
+<hr>
+<p><img class="circle right" width="200" height="200" src="/images/padlock.png"></p>
+<h4 id="Security">Security</h4>
+<p>As a business owner, it’s not only important to be online, but to stay online. That’s why it’s important to have the best protection you can get, in case something goes wrong. </p>
+<p>If your website is infected with malware, we clean it and where possible, restore your data. We will help prevent data loss in the future by setting up regular backups.</p>
+<hr>
+<p><img class="circle left" width="128" height="128" src="/images/bitcoin.png"></p>
+<h4 id="Bitcoin">Bitcoin</h4>
+<p>Bitcoin is a new generation of money. It enables you to send and receive money quickly, cheaply and securely. We’ll teach you how to safely accept Bitcoin payments on your website and in your local establishment. </p>
+<p>We’ll show you how to use it every day, how to store it, spend it, and even how to back up your money safely. With Bitcoin, there are no more chargeback fees. When you receive a payment in Bitcoins, they can be immediately converted to Euros or Dollars and transferred to your regular bank account.</p>
+]]></content>
+    
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Latest Work]]></title>
+    <link href="http://kojinga.com/posts/2014/09/08/latest-work/"/>
+    <id>http://kojinga.com/posts/2014/09/08/latest-work/</id>
+    <published>2014-09-08T08:57:00.000Z</published>
+    <updated>2014-09-09T05:01:00.000Z</updated>
+    <content type="html"><![CDATA[<h4 id="Ton_Wooning_Kantoormeubelen">Ton Wooning Kantoormeubelen</h4>
+<p><img class="rounded" src="/images/twk_screenshots.jpg"></p>
+<p>The challenge for our client Ton Wooning, owner of an office furniture business, was chiefly found in a good content strategy. An entire catalog of products had to digitized and for that we created a clear subdivision of product groups.</p>
+<p><a href="http://www.kantoormeubelen.com/" target="_blank" rel="external">www.kantoormeubelen.com</a></p>
+]]></content>
+    
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Contact]]></title>
+    <link href="http://kojinga.com/posts/2014/09/08/contact/"/>
+    <id>http://kojinga.com/posts/2014/09/08/contact/</id>
+    <published>2014-09-08T08:56:00.000Z</published>
+    <updated>2014-09-08T19:06:24.000Z</updated>
+    <content type="html"><![CDATA[<p>You can reach us by email at <a href="mailto:hi@kojinga.com" target="_blank" rel="external">hi@kojinga.com</a>.</p>
+]]></content>
+    
+    
+  </entry>
+  
+</feed>
